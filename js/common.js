@@ -30,7 +30,6 @@ $(function slickWrap () {
         vertical: true,
         autoplay: true
     });
-    
 });
 
 // layer popup
